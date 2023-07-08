@@ -74,6 +74,11 @@ nav a {
     margin-bottom: 20px;
 }
 
+main{
+    max-width:1140px;
+    margin: 0px auto;
+}
+
 /* main section style */
 .section-title {
     color:#474747;
@@ -93,4 +98,15 @@ nav a {
     background-color: #f8e9de;
     border-radius: 10px;
     margin:130px;
+}
+
+.about-info-container{
+    display:flex;
+    justify-content:space-around;
+}
+.about-info{
+    text-align:center;
+}
+.info-description{
+   
 }
