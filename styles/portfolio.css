@@ -79,6 +79,10 @@ main{
     margin: 0px auto;
 }
 
+main section{
+    margin-top: 130px;
+}
+
 /* main section style */
 .section-title {
     color:#474747;
@@ -109,4 +113,23 @@ main{
 }
 .info-description{
    
+}
+
+/* skill related style */
+
+#what-i-do-descrioption{
+    padding:30px auto;
+}
+.skill-container{
+    display:flex;
+    gap:24px;
+    padding:30px;
+    
+}
+.skil{
+    padding:30px;
+    border-radius:5px;
+    background: white;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    
 }
